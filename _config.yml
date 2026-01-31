@@ -13,7 +13,7 @@ title                    : "Luna KC"
 title_separator          : "-"
 name                     : "Luna KC"
 description              : "Luna KC's academic portfolio" 
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://nishan258.github.io/lunakc766.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lunakc766.github.io"
